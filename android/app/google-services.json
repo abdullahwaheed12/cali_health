@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601610759557",
+    "project_id": "cali-health-efc07",
+    "storage_bucket": "cali-health-efc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601610759557:android:e935a4d136e3adba9c68ec",
+        "android_client_info": {
+          "package_name": "com.example.cali_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601610759557-ue00jpdpj4g9b7rrng7neheavbncttcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmTZ9vQguXeXjTvjB3c8IZQLNXhD8w3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601610759557-ue00jpdpj4g9b7rrng7neheavbncttcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
